@@ -21,7 +21,7 @@ git clone https://github.com/author-repo/OSDU-Ontology.git
 ~~~
 
 # Usage
-Download the latest OSDU schema from [this location] (https://community.opengroup.org/osdu/platform/data-flow/data-loading/open-test-data/-/tree/master/rc--3.0.0/3-schema).
+Download the latest OSDU schema from [this location](https://community.opengroup.org/osdu/platform/data-flow/data-loading/open-test-data/-/tree/master/rc--3.0.0/3-schema).
 
 From a terminal in the osdu-ontology-generator folder:
 ~~~
