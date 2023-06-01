@@ -17,7 +17,7 @@ Python3, with libraries numpy and regex.
 
 # Installation
 ~~~
-git clone (https://github.com/author-repo/OSDU-Ontology.git)
+git clone https://github.com/author-repo/OSDU-Ontology.git
 ~~~
 
 # Usage
